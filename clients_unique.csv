@@ -1,0 +1,23 @@
+Client ID,First Name,Last Name,Email,Phone,Address,Zip Code,Gender,Date of Birth
+0,John,Smith,john.smith@email.com,123-456-7890,123 Main St,10001,Male,1980-05-15
+1,Emily,Johnson,emily.j@email.com,456-789-1230,456 Elm St,10002,Female,1990-03-22
+2,David,Smith,david.smith@email.com,123-456-7890,123 Main St,10001,Male,1980-05-15
+3,Sarah,Williams,sarah.w@email.com,789-123-4560,789 Oak St,10003,Female,1985-11-10
+4,Michael,Davis,michael.d@email.com,234-567-8901,234 Maple St,10004,Male,1995-07-03
+5,Ethan,Johnson,ethan.j@email.com,234-567-8901,234 Maple St,10004,Male,1981-09-04
+6,Amelia,Davis,amelia.d@email.com,234-567-8901,234 Maple St,10004,Female,1993-03-27
+7,Mia,Smith,mia.sm@email.com,123-456-7890,123 Main St,10001,Female,1989-07-14
+8,Emma,Jones,emma.j@email.com,678-901-2345,678 Pine St,10007,Female,1982-06-08
+9,Robert,Williams,robert.w@email.com,789-123-4560,789 Oak St,10003,Male,1985-11-10
+10,Sophia,Brown,sophia.b@email.com,567-890-1234,567 Cedar St,10006,Female,1986-02-20
+11,Oliver,Miller,oliver.m@email.com,345-678-9012,345 Birch St,10005,Male,1999-10-05
+12,Isabella,Jones,isabella.j@email.com,678-901-2345,678 Pine St,10007,Female,1994-01-19
+13,Matthew,Williams,matthew.w@email.com,789-123-4560,789 Oak St,10003,Male,1986-12-01
+14,Grace,Smith,grace.s@email.com,123-456-7890,123 Main St,10001,Female,1991-04-08
+15,Liam,Johnson,liam.j@email.com,234-567-8901,234 Maple St,10004,Male,1984-02-28
+16,Sophia,Brown,sophia.b.email.com,567-890-1234,567 Cedar St,10006,Female,1986-02-20
+17,James,Brown,james.b@email.com,567-890-1234,567 Cedar St,10006,Male,1978-04-30
+18,Olivia,Smith,olivia.sm@email.com,123-456-7890,123 Main St,10001,Female,1992-12-17
+19,William,Johnson,william.j@email.com,234-567-8901,234 Maple St,10004,Male,1983-08-12
+20,Ella,Smith,ella.s@email.com,123-456-7890,123 Main St,10001,Female,1997-11-08
+21,Laura,Miller,laura.m@email.com,345-678-9012,345 Birch St,10005,Female,1987-09-25
